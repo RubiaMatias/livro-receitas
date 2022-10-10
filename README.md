@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livro de receitas :tomato:
 
 - Strogonof de Frango
 - Pavê
+- Bolo de Cenoura
